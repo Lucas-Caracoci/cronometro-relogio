@@ -105,7 +105,7 @@ function setButtonBackgroundColor() {
     });
 
     
-    if (vid.src.includes('samurai-in-the-autumn-forest-4k-live-wallpaper.mp4')) {
+    if (vid.src.includes('samurai-in-the-autumn-forest-HD-live-wallpaper.mp4')) {
         applyThemeToButtons('btn');
     } else if (vid.src.includes('megumi-fushiguro-jujutsu-kaisen-4k-live-wallpaper.mp4')) {
         applyThemeToButtons('btn2');
